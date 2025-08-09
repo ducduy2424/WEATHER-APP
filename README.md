@@ -1,5 +1,5 @@
 # Weather App
-
+*Đây là web mình làm theo trên youtube:https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9, mình đã cải tiến thêm backend proxy với nodejs để bảo mật apiKey"
 Ứng dụng thời tiết với bảo mật API key.
 
 ## Cài đặt
@@ -68,3 +68,4 @@ Nếu gặp lỗi "API key not configured":
 1. Kiểm tra file `.env` có tồn tại không
 2. Đảm bảo API key đã được thêm vào file `.env`
 3. Restart server sau khi thay đổi file `.env`
+
