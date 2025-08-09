@@ -1,6 +1,7 @@
 # Weather App
-*Đây là web mình làm theo trên youtube:https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9, mình đã cải tiến thêm backend proxy với nodejs để bảo mật apiKey"
-Ứng dụng thời tiết với bảo mật API key.*
+
+*Đây là web mình làm theo video youtube: https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9, mình đã cải tiến thêm backend proxy với nodejs để bảo mật apiKey*
+
 
 ## Cài đặt
 
