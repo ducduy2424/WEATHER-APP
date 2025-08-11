@@ -7,7 +7,7 @@
 
 1. Clone repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ducduy2424/WEATHER-APP.git
 cd weather-app
 ```
 
@@ -69,5 +69,6 @@ Nếu gặp lỗi "API key not configured":
 1. Kiểm tra file `.env` có tồn tại không
 2. Đảm bảo API key đã được thêm vào file `.env`
 3. Restart server sau khi thay đổi file `.env`
+
 
 
